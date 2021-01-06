@@ -1,0 +1,25 @@
+body {
+  background: olive;
+}
+
+/* ID */
+
+#mainbox{
+  font-family: Perpetua;
+  background: bisque;
+  width: 1000px;
+  margin: 50px; auto;
+  padding: 10px;
+}
+
+#table {
+  font-family: Perpetua;
+  background-color: lightgray;
+  width: 700px;
+  border-color: black;
+  border-: 1px;
+}
+
+table, th, td {
+  border: 1px solid black
+}
