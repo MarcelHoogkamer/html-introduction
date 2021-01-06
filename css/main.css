@@ -1,5 +1,6 @@
 body {
-  background: olive;
+  background-image: url("background.jpg");
+  background-color: darkolivegreen;
 }
 
 /* ID */
@@ -17,9 +18,14 @@ body {
   background-color: lightgray;
   width: 700px;
   border-color: black;
-  border-: 1px;
+  border-style: dot-dot-dash;
+  border: 1px;
 }
 
 table, th, td {
   border: 1px solid black
+}
+
+.quote {
+  font-size: x-large;
 }
